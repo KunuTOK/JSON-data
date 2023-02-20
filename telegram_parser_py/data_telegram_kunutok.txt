@@ -1,0 +1,312 @@
+User(
+        id=547776396,
+        is_self=True,
+        contact=True,
+        mutual_contact=True,
+        deleted=False,
+        bot=False,
+        bot_chat_history=False,
+        bot_nochats=False,
+        verified=False,
+        restricted=False,
+        min=False,
+        bot_inline_geo=False,
+        support=False,
+        scam=False,
+        apply_min_photo=True,
+        fake=False,
+        bot_attach_menu=False,
+        premium=False,
+        attach_menu_enabled=False,
+        access_hash=-5486212873588765130,
+        first_name='Дмитрий',
+        last_name='Глушков ₲',
+        username='kunutok',
+        phone='79607418138',
+        photo=UserProfilePhoto(
+                photo_id=2352681706796984236,
+                dc_id=2,
+                has_video=False,
+                personal=False,
+                stripped_thumb=b'\x01\x08\x08\xb1%\xd4^x;\xf9Z(\xa2\x9d\x89r?'
+        ),
+        status=UserStatusOnline(
+                expires=datetime.datetime(2023, 2, 7, 18, 59, 5, tzinfo=datetime.timezone.utc)
+        ),
+        bot_info_version=None,
+        restriction_reason=[
+        ],
+        bot_inline_placeholder=None,
+        lang_code=None,
+        emoji_status=None,
+        usernames=[
+        ]
+)
+Гамбини 3 has ID -1001811956816
+Гамбини 2 has ID -562337019
+МТС выпуски has ID -681535589
+Ометы has ID -1001615403591
+
+
+
+kunutok
+79607418138
+Варюша has ID 5149455549
+Солнышко has ID 751687175
+Дмитрий Глушков ₲ has ID 547776396
+Dream team (HoTS) has ID -208582081
+React — русскоговорящее сообщество has ID -1001032883247
+Telegram has ID 777000
+Tynu40k Goblina (oper.ru) has ID -1001052505009
+Библиотека программиста has ID -1001039626561
+UX UI design - вакансии и резюме has ID -1001161968805
+TypeScript has ID -1001304487563
+Банкста has ID -1001136626166
+Резидент has ID -1001271765197
+WELOVEGAMES has ID -1001059624930
+Мир сегодня с "Юрий Подоляка" has ID -1001478765631
+Node.js jobs - NotificaJobs 📬 ( Node js, JavaScript, TypeScript, Express, NestJS) has ID -1001519468289
+Война с фейками has ID -1001736895964
+JavaScript Jobs — чат has ID -1001050008285
+Cosplay Nudes Lite | Косплей 16+ has ID -1001487579234
+Finder.vc: удаленная работа - вакансии has ID -1001143063102
+React: русскоязычное сообщество has ID -1001306230328
+UI/UX Jobs — канал вакансий и резюме дизайнеров has ID -1001361592424
+Семен Уралов has ID -1001447703720
+Удалёнка без опыта has ID -1001400814782
+Karter_info has ID -1001321030650
+IgorGHK has ID -1001571627859
+Клим Жуков has ID -1001558644782
+Кострома | 44 регион has ID -1001069150994
+джоб оффер has ID -1001221438812
+Работа в стартапах за рубежом has ID -1001804835860
+bootcamp winter 22 has ID -1001740437455
+Startup School на русском has ID -1001344693563
+Spydell_finance has ID -1001486790946
+JavaScript Jobs — вакансии и резюме has ID -1001110946746
+Beregini has ID -1001185457530
+Хабр Карьера has ID -1001011903786
+СберСтартап has ID -1001255765515
+Silicon Pravda Chat has ID -1001363828315
+FrontEnd Development has ID -1001057630344
+Мировоззрение Y Combinator has ID -1001418156090
+Образование Подмосковья has ID -1001328219756
+Podcast has ID -465589610
+Remote IT (Inflow) has ID -1001141029953
+Верстка сайтов HTML/CSS/JS/PHP has ID -1001067072209
+Хазин has ID -1001332178867
+Картины от нейросети️ has ID -1001720935749
+FrontEnd книги для программистов has ID -1001414646790
+Богачев Анатолий охрана труда has ID 1623134944
+Стартап дня. Александр Горный. has ID -1001114616412
+kyrillic has ID -1001334573228
+СТАС БОМБИТ has ID -1001046511458
+Максим Ч has ID 299341101
+Дмитрий Медведев has ID -1001572748754
+ТишьюПром News has ID -1001667839637
+Финляндия: эмиграция. Личный опыт. has ID -1001205136922
+Русский research has ID -1001372058170
+Голосовые из Фрязино (Better Voice) has ID -1001587691712
+Иван Мамонтов has ID 879917386
+ОТРЯД САСА – ОСПА has ID -1001810339171
+Бычков Игорь Валентинович has ID 5669024567
+Wow Things has ID -1001172252932
+Артем has ID 2106068323
+Virginia Bēowulf has ID -1001242111420
+StartupFellows has ID -1001097303196
+AlexGyver 🛠 Channel has ID -1001337350915
+Здоровье Наташа Пашкевич (Веревка) has ID -1001723622646
+Олег ответит has ID 1267087801
+Сашка has ID 595030153
+Инга Английский has ID 680230445
+MTS StartUp Hub has ID -1001534723323
+Татьяна Анатольевна Техникум Директриса has ID 6054582876
+ЖОСПА has ID 5818832387
+Игорь has ID 785845339
+Максим Груздев Инженер По Эксплуатации has ID 914458961
+Галий ЭЛЕКТРОГАРАНТ. © has ID -1001667141186
+Виктор Крупенин ИТ отдел завод has ID 319166137
+Виктория Давыдова ИТ Сяського ЦБК has ID 888759732
+снятся ли андроидам электроовцы has ID -1001182264870
+Ulbi TV - fullstack разработка на JavaScript has ID -1001257042585
+Багаутдин отдел закупок руководитель has ID 1696424468
+Anastasia Girina has ID 1031530368
+DE 3 AT | Чат has ID -1001639169677
+Фрилансер has ID -1001077631782
+Кисельчик Новый has ID 1210461086
+Вова Кичигин has ID 5975818904
+Костя Иваново has ID 5963783543
+Дмитрий Захаров Пушкино has ID 702725205
+Ксения космовенок has ID 563658073
+Stepan 👨‍💻 has ID 5929810466
+Виктория Сергеевна садик has ID 1102901605
+Сергей Беляев Газель has ID 5906940362
+Black Programmer has ID 491731754
+Зверева has ID 5936463575
+Дыдыкин Александр Владимирович has ID 5622567427
+Коротков Андрей Николаевич Рза Катушка has ID 5618254975
+Алена Дмитриевна has ID 654069074
+Манхеттен Печать has ID 5816586375
+Четвергов Кирилл Андреевич has ID 1801251583
+Андрюха Ведяйкин has ID 357406818
+Раченков Денис Николаевич has ID 5838743727
+Bored Calendar has ID -1001827198929
+Startup Village has ID -1001178523611
+Павел Лада has ID 5804062053
+Разгуляшка has ID 483617528
+Ярослав Лапин has ID 97439829
+Одинцова Елена Юрьевна has ID 5907289638
+Антон Команда has ID 5858679725
+Игорь Разгуляев has ID 846701688
+Тулыкин Афанасий Иванович has ID 5923965498
+Настя Зд Молели has ID 914947812
+Илья Wight-Night has ID 425631828
+Сергей has ID 535546609
+Римма has ID 5985877837
+Victoria has ID 996220433
+Иван В. has ID 5800630638
+Сергей Кудинов has ID 231032212
+Anatoly B has ID 43142991
+Fackster has ID 1903688066
+ad0y3z has ID 442130759
+Нрузовые Перевозки Полуторка has ID 5860246184
+Юрий Петранков, Капитан | СК14 | Штерн has ID 1254045798
+ has ID 5594662056
+Танюша универ has ID 972200425
+Паша Шиндяев has ID 5676400374
+Ярослав has ID 5796982496
+Белка кар has ID 5365887149
+Денис Колобов has ID 361707258
+АРХАНГЕЛ СПЕЦНАЗА (РЕЗЕРВ) has ID -1001621815393
+Громов Андрей Алексеевич has ID 5477890940
+Варя Герасимова has ID 5630135400
+Никита has ID 565566320
+Настя Васильева has ID 5780019496
+Виталий has ID 886979544
+Борис has ID 5428221213
+Павел has ID 737896486
+Артем has ID 554000096
+Vladislav has ID 5370496728
+Vladimir has ID 998384982
+Md has ID 448547699
+Nikita has ID 405856194
+Dmitriy has ID 188964414
+Konstantin Otinov has ID 1283873977
+Nurik has ID 1109207615
+Уланов Дмитрий has ID 435064820
+Григорий Бахтин has ID 5729030430
+Дежурный По Связи has ID 1617618239
+Ленченко Константин Трубный Завод has ID 5192721233
+Антон has ID 145666716
+Наташа Пашкевич (Веревка) has ID 643546028
+Кирилл has ID 573135963
+Бытовая Техника Сергиев Посад has ID 5647505385
+Tatyana Bovkun has ID 1094319453
+🍐Sergey Mishutkin has ID 346085404
+Kendal has ID 1832061479
+Дарья has ID 1173403064
+Alena has ID 491563468
+Добрый День has ID 738999189
+Дэннис has ID 1236902240
+Bored Calendar has ID -807625926
+Yegor Leshchenko has ID 433041282
+Тилек has ID 1814949519
+Ilija has ID 1280729773
+Danila Amazaryan has ID 2015687283
+Mixzip has ID 2133587674
+nastia_rusia has ID 386908276
+Andrey Boldyrev has ID 296980484
+Минск Военторг has ID 664494973
+Чибекеев Николаевич has ID 469784084
+Серега Кондратьев has ID 1188882524
+Володя Огурцов has ID 5716890700
+Серега Щедроткин has ID 5653000666
+Ирина Степина Мама has ID 5647275932
+KO44RU has ID 5575943818
+Vyacheslav Kozlov has ID 111914936
+Nikolai Gromin has ID 412219503
+Банокин Александр has ID 5412591131
+Andrei Soroker has ID 417288297
+Никоненко Елена Николаевна has ID 5502694182
+Петр Гаврилов has ID 5733185214
+Леня Разгуляев has ID 5747737036
+Sasha has ID 154148930
+Irina Igorevna has ID 824276078
+Саламатов Алексей has ID 216275774
+People-Pay has ID 5195475200
+Перминов has ID 5413089932
+Mikl Kurkov has ID 92744758
+Анжелика has ID 956562295
+Андрей has ID 338341034
+Рустам Шарипов has ID 1713602884
+Управляющая Компания Новое Пушкино has ID 5591687857
+Коммерческий банк "КЫРГЫЗСТАН" has ID 227946456
+Фогбендер has ID -651718131
+Aga has ID 566969399
+Anouk has ID 240412237
+Маркова Виктория has ID 1305788956
+Днюха 01.06 has ID -644454347
+Быстро Чётко Заябись has ID -1001560231032
+Михаил Шкаренков has ID 46781967
+Глебов Евгений Николаевич has ID 1218860862
+Никитина Татьяна has ID 479513650
+Люда Электроник Фронт Офис has ID 5297669427
+DnD for DreamTeam has ID -342039007
+Евгений Румянцев has ID 225280101
+Хранитель времени has ID 742875963
+Николай Галий has ID 826014902
+Валерий Васильевич Квартира Отец has ID 5297135873
+Алена Николаевна По Муфте has ID 5372686108
+Горелов А В has ID 5371610675
+М.Видео has ID 1203841355
+Быстро Чётко Заябись has ID -659587408
+Svetlana has ID 392244083
+Электро Гарант has ID 1338345562
+Virginia Bēowulf • admin has ID 1321373503
+Мари has ID 527038660
+ has ID 5107573732
+Replies has ID 1271266957
+bootcamp winter 22 has ID -546088782
+ has ID 476071563
+Алексей has ID 426876914
+Тулаев Александр Петрович has ID 5176171974
+Инна Мамонтова has ID 5193124300
+Андрей К has ID 1796330537
+Черная Кость Парикмахерская has ID 5173123349
+Чепурнов Александр has ID 5212655754
+Макарова М has ID 5128472387
+Цветочная Лавка has ID 519059209
+Максим has ID 466683881
+Александр Захаров has ID 476631064
+Савченко Петрович has ID 5123356956
+Course Task Checker Bot has ID 1960950805
+Hayk Inants has ID 455340156
+Строкач Виталий Вячеславович has ID 1447670694
+Каждый день по треку has ID -1001565794780
+Квартира has ID -387351957
+Отпуск has ID -518419839
+skillкоробка has ID -342291459
+Воронин Сергей has ID 1345525857
+ADM Raceway /info has ID -1001213221768
+No name has ID 539434127
+BotFather has ID 93372553
+Мемуары аудио книга заметки has ID -1001309547126
+Фокс мегафон has ID 928010574
+Controller Bot has ID 200942125
+Кирпа Елена Петровна has ID 833933173
+снятся ли андроидам электроовцы has ID -325113888
+Андрей ДР has ID -395034715
+Traceback (most recent call last):
+  File "/Users/dmitrijgluskov/git/telegram_parser_py/main.py", line 63, in <module>
+    client.loop.run_until_complete(main())
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/base_events.py", line 641, in run_until_complete
+    return future.result()
+  File "/Users/dmitrijgluskov/git/telegram_parser_py/main.py", line 29, in main
+    await client.send_message(-1740437455, 'Hello, group!')
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/telethon/client/messages.py", line 890, in send_message
+    result = await self(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/telethon/client/users.py", line 84, in _call
+    result = await future
+telethon.errors.rpcerrorlist.ChatIdInvalidError: Invalid object ID for a chat. Make sure to pass the right types, for instance making sure that the request is designed for chats (not channels/megagroups) or otherwise look for a different one more suited\nAn example working with a megagroup and AddChatUserRequest, it will fail because megagroups are channels. Use InviteToChannelRequest instead (caused by SendMessageRequest)
